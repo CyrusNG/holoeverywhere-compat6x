@@ -10,7 +10,7 @@
     <dependency>
       <groupId>com.actionbarsherlock</groupId>
       <artifactId>actionbarsherlock</artifactId>
-      <version>4.3.1</version>
+      <version>4.3.1-compat6x</version>
       <scope>compile</scope>
     </dependency>
     <dependency>

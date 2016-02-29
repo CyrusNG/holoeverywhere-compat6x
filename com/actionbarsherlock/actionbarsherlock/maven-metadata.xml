@@ -2,11 +2,11 @@
 <metadata>
   <groupId>com.actionbarsherlock</groupId>
   <artifactId>actionbarsherlock</artifactId>
-  <version>4.3.1</version>
+  <version>4.3.1-compat6x</version>
   <versioning>
     <versions>
-      <version>4.3.1</version>
+      <version>4.3.1-compat6x</version>
     </versions>
-    <lastUpdated>20130626122326</lastUpdated>
+    <lastUpdated>20160229125727</lastUpdated>
   </versioning>
 </metadata>
