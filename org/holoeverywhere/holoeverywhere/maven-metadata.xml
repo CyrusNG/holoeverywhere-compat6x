@@ -2,11 +2,11 @@
 <metadata>
   <groupId>org.holoeverywhere</groupId>
   <artifactId>holoeverywhere</artifactId>
-  <version>1.6.8</version>
+  <version>1.6.8-compat6x</version>
   <versioning>
     <versions>
-      <version>1.6.8</version>
+      <version>1.6.8-compat6x</version>
     </versions>
-    <lastUpdated>20130705214813</lastUpdated>
+    <lastUpdated>20160229150021</lastUpdated>
   </versioning>
 </metadata>

@@ -10,7 +10,7 @@
     <dependency>
       <groupId>org.holoeverywhere</groupId>
       <artifactId>holoeverywhere</artifactId>
-      <version>1.6.8</version>
+      <version>1.6.8-compat6x</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
