@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>se.anyro</groupId>
+  <artifactId>nfc-reader</artifactId>
+  <version>0.13</version>
+  <versioning>
+    <versions>
+      <version>0.13</version>
+    </versions>
+    <lastUpdated>20131206102757</lastUpdated>
+  </versioning>
+</metadata>
